@@ -1,0 +1,17 @@
+{
+    "name": "crontab/crontab",
+    "description": "Library for dealing with cron expressions.",
+    "authors": [
+        {
+            "name": "Danny Eck",
+            "email": "eck.danny@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {"Crontab": "src/"}
+    }
+}
